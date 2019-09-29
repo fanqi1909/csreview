@@ -1,4 +1,4 @@
-package org.jace.cs.review.lc.multithread.printFooBar;
+package org.jace.cs.review.lc.multithread.p1115;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
@@ -44,14 +44,12 @@ public class Solution1 implements Solution {
             // printFoo.run() outputs "foo". Do not change or remove this line.
             BQLock.lock();
             try {
-
                 while(toFoo) {
                     printBarSig.await();
                 }
                 printFooSig.signal();
                 printBar.run();
                 toFoo = true;
-
             } catch (Exception e) {
                 e.printStackTrace();
             } finally {

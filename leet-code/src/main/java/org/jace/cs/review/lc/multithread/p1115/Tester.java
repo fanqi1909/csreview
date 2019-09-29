@@ -1,4 +1,4 @@
-package org.jace.cs.review.lc.multithread.printFooBar;
+package org.jace.cs.review.lc.multithread.p1115;
 
 public class Tester {
 
@@ -27,8 +27,8 @@ public class Tester {
     }
 
     public static void main(String[] args) throws Exception{
-        Solution solution1 = new Solution1(10);
-        Solution solution2 = new Solution2(10);
+        Solution solution1 = new Solution1(30);
+        Solution solution2 = new Solution2(30);
 
         testSolution(solution1);
         System.out.println();

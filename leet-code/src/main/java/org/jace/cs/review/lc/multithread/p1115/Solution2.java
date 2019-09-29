@@ -1,4 +1,4 @@
-package org.jace.cs.review.lc.multithread.printFooBar;
+package org.jace.cs.review.lc.multithread.p1115;
 
 import java.util.concurrent.Semaphore;
 
