@@ -10,3 +10,4 @@ This is a repository for leetcode solutions.
 | 8 | String to Integer | String | [code](src/main/java/org/jace/cs/review/lc/string/p8/Solution.java) | 2019-10-02 |
 | 3 | Longest substring without duplicate chars| String | [code](src/main/java/org/jace/cs/review/lc/string/p3/Solution.java) | 2019-10-02 |
 | 4 | Median of two sorted array |Binary search |[code](src/main/java/org/jace/cs/review/lc/binaryresearch/p4/Solution.java) | 2019-10-04 |
+| 7 | Reverse Integer | String | [code](src/main/java/org/jace/cs/review/lc/string/p7/Solution.java) | 2019-10-04 |
