@@ -9,5 +9,7 @@ public class Tester {
         System.out.println(solution.intToRoman(9) + "== IX");
         System.out.println(solution.intToRoman(58) + "== LVIII");
         System.out.println(solution.intToRoman(1994) + "== MCMXCIV");
+        System.out.println(solution.intToRoman(3751) + "== MMMDCCLI");
+
     }
 }
