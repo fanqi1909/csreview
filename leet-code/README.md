@@ -14,5 +14,6 @@ This is a repository for leetcode solutions.
 | 12 | Integer to Roman | String | [code](src/main/java/org/jace/cs/review/lc/string/p12/Solution.java) | 2019-10-04 |
 | 13 | Roman to Roman | String | [code](src/main/java/org/jace/cs/review/lc/string/p13/Solution.java) | 2019-10-05 |
 | 14 | Longest Common Prefix | String | [code](src/main/java/org/jace/cs/review/lc/string/p14/Solution.java) | 2019-10-05 |
-| 15 | 3 sum | Sorting | [code](src/main/java/org/jace/cs/review/lc/sorting/p15/Solution.java) | 2019-10-05 |
-| 16 | 3 sum closest | Sorting,  Binary search | [code](src/main/java/org/jace/cs/review/lc/sorting/p16/SolutionN2.java) | 2019-10-06 |
+| 15 | 3 sum | Search | [code](src/main/java/org/jace/cs/review/lc/search/p15/Solution.java) | 2019-10-05 |
+| 16 | 3 sum closest | Search | [code](src/main/java/org/jace/cs/review/lc/search/p16/SolutionN2.java) | 2019-10-06 |
+| 17 | Letter Combination of a Phone Number | Search | [code](src/main/java/org/jace/cs/review/lc/search/p17/Solution.java) | 2019-10-06 |

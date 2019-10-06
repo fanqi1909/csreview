@@ -1,4 +1,4 @@
-package org.jace.cs.review.lc.sorting.p15;
+package org.jace.cs.review.lc.search.p15;
 
 
 import java.util.*;

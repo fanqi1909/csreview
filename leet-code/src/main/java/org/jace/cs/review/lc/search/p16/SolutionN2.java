@@ -1,4 +1,4 @@
-package org.jace.cs.review.lc.sorting.p16;
+package org.jace.cs.review.lc.search.p16;
 
 import java.util.Arrays;
 

@@ -1,8 +1,7 @@
-package org.jace.cs.review.lc.sorting.p15;
+package org.jace.cs.review.lc.search.p15;
 
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Solution2 {
     public List<List<Integer>> threeSum(int[] num) {
