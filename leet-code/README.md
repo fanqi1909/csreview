@@ -18,3 +18,4 @@ This is a repository for leetcode solutions.
 | 16 | 3 sum closest | Search | [code](src/main/java/org/jace/cs/review/lc/search/p16/SolutionN2.java) | 2019-10-06 |
 | 17 | Letter Combination of a Phone Number | Search | [code](src/main/java/org/jace/cs/review/lc/search/p17/Solution.java) | 2019-10-06 |
 | 18 | 4 sum | Search | [code](src/main/java/org/jace/cs/review/lc/search/p18/Solution.java) | 2019-10-06 |
+| 21 | Merge two sorted list |List | [code](src/main/java/org/jace/cs/review/lc/list/p21/Solution.java) | 2019-10-07 |
