@@ -19,3 +19,4 @@ This is a repository for leetcode solutions.
 | 17 | Letter Combination of a Phone Number | Search | [code](src/main/java/org/jace/cs/review/lc/search/p17/Solution.java) | 2019-10-06 |
 | 18 | 4 sum | Search | [code](src/main/java/org/jace/cs/review/lc/search/p18/Solution.java) | 2019-10-06 |
 | 21 | Merge two sorted list |List | [code](src/main/java/org/jace/cs/review/lc/list/p21/Solution.java) | 2019-10-07 |
+| 24 | Swap Nodes in Pairs |List | [code](src/main/java/org/jace/cs/review/lc/list/p24/Solution.java) | 2019-10-07 |
