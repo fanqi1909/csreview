@@ -21,4 +21,5 @@ This is a repository for leetcode solutions.
 | 21 | Merge two sorted list |List | [code](src/main/java/org/jace/cs/review/lc/list/p21/Solution.java) | 2019-10-07 |
 | 24 | Swap Nodes in Pairs |List | [code](src/main/java/org/jace/cs/review/lc/list/p24/Solution.java) | 2019-10-07 |
 | 25 | Reverse Nodes in k-Group |List | [code](src/main/java/org/jace/cs/review/lc/list/p25/Solution.java) | 2019-10-07 |
-| 26 | Remove Duplicates from Sorted Array | List | [code](src/main/java/org/jace/cs/review/lc/array/p26/Solution.java) | 2019-10-08 |
+| 26 | Remove Duplicates from Sorted Array | Array | [code](src/main/java/org/jace/cs/review/lc/array/p26/Solution.java) | 2019-10-08 |
+| 27 | Remove Element in an Array | Array | [code](src/main/java/org/jace/cs/review/lc/array/p27/Solution.java) | 2019-10-08 |
