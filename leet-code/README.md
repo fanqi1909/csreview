@@ -26,3 +26,4 @@ This is a repository for leetcode solutions.
 | 29 | Divide Two integers | Binary search | [code](src/main/java/org/jace/cs/review/lc/binarysearch/p29/Solution.java) | 2019-10-08 |
 | 30 | Substring with Concatenation of All Words |  Search | [code](src/main/java/org/jace/cs/review/lc/search/p30/Solution.java) | 2019-10-09 |
 | 31 | Next Permutation |  Array | [code](src/main/java/org/jace/cs/review/lc/array/p31/Solution.java) | 2019-10-09 |
+| 312 | Burst Balloons | DP | [code](src/main/java/org/jace/cs/review/lc/dp/p312/Solution.java) | 2019-10-12 |

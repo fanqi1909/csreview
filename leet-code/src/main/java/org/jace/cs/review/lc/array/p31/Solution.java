@@ -5,33 +5,33 @@ import java.util.Arrays;
 public class Solution {
 
     public void nextPermutation(int[] nums) {
-        int i = nums.length-1;
-        while(i > 0 && nums[i] <= nums[i-1]) {
+        int i = nums.length - 2;
+        while (i >= 0 && nums[i + 1] <= nums[i]) {
             i--;
         }
-        if(i > 0) {
-            Arrays.sort(nums, i, nums.length);
-            int j = i-1;
-            int k = i;
-            while(k < nums.length && nums[k] <= nums[j]) {
-                k++;
+        if (i >= 0) {
+            int j = nums.length - 1;
+            while (j >= 0 && nums[j] <= nums[i]) {
+                j--;
             }
-            swap(nums, j, k);
-        } else {
-            //reverser array
-            int l = 0, r = nums.length - 1;
-            while(l < r) {
-                swap(nums, l, r);
-                l++;
-                r--;
-            }
+            swap(nums, i, j);
         }
+        reverse(nums, i + 1);
         System.out.println(Arrays.toString(nums));
     }
 
-    private void swap(int[] nums, int a, int b) {
-        int temp = nums[a];
-        nums[a] = nums[b];
-        nums[b] = temp;
+    private void reverse(int[] nums, int start) {
+        int i = start, j = nums.length - 1;
+        while (i < j) {
+            swap(nums, i, j);
+            i++;
+            j--;
+        }
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
