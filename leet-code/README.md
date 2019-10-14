@@ -29,3 +29,4 @@ This is a repository for leetcode solutions.
 | 312 | Burst Balloons | DP | [code](src/main/java/org/jace/cs/review/lc/dp/p312/Solution.java) | 2019-10-12 |
 | 33 | Searching in rotated arrays | Binary search | [code](src/main/java/org/jace/cs/review/lc/binarysearch/p33/Solution.java) | 2019-10-12 |
 | 37 | Sudoku solver | Search | [code](src/main/java/org/jace/cs/review/lc/search/p37/Solution.java) | 2019-10-13 |
+| 39 | Combination Sum | Search | [code](src/main/java/org/jace/cs/review/lc/search/p39/Solution.java) | 2019-10-14 |
