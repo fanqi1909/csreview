@@ -32,3 +32,4 @@ This is a repository for leetcode solutions.
 | 39 | Combination Sum | Search | [code](src/main/java/org/jace/cs/review/lc/search/p39/Solution.java) | 2019-10-14 |
 | 40 | Combination Sum II | Search | [code](src/main/java/org/jace/cs/review/lc/search/p40/Solution.java) | 2019-10-14 |
 | 34 | Find First and Last Position of Element in Sorted Array | Binary search | [code](src/main/java/org/jace/cs/review/lc/binarysearch/p34/Solution.java) | 2019-10-14 |
+|124| Binary Tree Maximum Path Sum | Tree traversal | [code](src/main/java/org/jace/cs/review/lc/tree/p124/Solution.java) | 2019-10-19|
