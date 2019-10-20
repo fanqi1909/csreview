@@ -35,3 +35,4 @@ This is a repository for leetcode solutions.
 |124| Binary Tree Maximum Path Sum | Tree traversal | [code](src/main/java/org/jace/cs/review/lc/tree/p124/Solution.java) | 2019-10-19|
 |35| Search Insert Position | Binary search | [code](src/main/java/org/jace/cs/review/lc/binarysearch/p35/Solution.java) | 2019-10-19|
 |41| First Missing Positive| Array | [code](src/main/java/org/jace/cs/review/lc/array/p41/Solution.java) | 2019-10-20|
+|42| Trapping Rain Water| Array, Divide-and-Conquer | [code](src/main/java/org/jace/cs/review/lc/array/p42/Solution.java) | 2019-10-20|
