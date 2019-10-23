@@ -37,3 +37,4 @@ This is a repository for leetcode solutions.
 |41| First Missing Positive | Array | [code](src/main/java/org/jace/cs/review/lc/array/p41/Solution.java) | 2019-10-20|
 |42| Trapping Rain Water | Array, Divide-and-Conquer | [code](src/main/java/org/jace/cs/review/lc/array/p42/Solution.java) | 2019-10-20|
 |410| Split Array Largest Sum | Array, DP | [code](src/main/java/org/jace/cs/review/lc/dp/p410/Solution.java) | 2019-10-23|
+|47| Permutation II | Search, recursion | [code](src/main/java/org/jace/cs/review/lc/search/p47/Solution.java) | 2019-10-23|
