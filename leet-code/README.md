@@ -39,3 +39,4 @@ This is a repository for leetcode solutions.
 |410| Split Array Largest Sum | Array, DP | [code](src/main/java/org/jace/cs/review/lc/dp/p410/Solution.java) | 2019-10-23|
 |47| Permutation II | Search, recursion | [code](src/main/java/org/jace/cs/review/lc/search/p47/Solution.java) | 2019-10-23|
 |166| Fraction to Recurring Decimal | String manipulation, hashmap | [code](src/main/java/org/jace/cs/review/lc/string/p166/Solution.java) | 2019-10-25|
+|36| Valid Sudoku | Search | [code](src/main/java/org/jace/cs/review/lc/search/p36/Solution.java) | 2019-10-25|
