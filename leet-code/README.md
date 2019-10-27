@@ -42,3 +42,4 @@ This is a repository for leetcode solutions.
 |36| Valid Sudoku | Search | [code](src/main/java/org/jace/cs/review/lc/search/p36/Solution.java) | 2019-10-25|
 |38| Count and say | String | [code](src/main/java/org/jace/cs/review/lc/search/p38/Solution.java) | 2019-10-25|
 |300| Longest Increasing Subsequence | DP, Binary search | [code](src/main/java/org/jace/cs/review/lc/dp/p300/Solution.java) | 2019-10-26|
+|10|  Regular Expression Matching | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p10/Solution.java) | 2019-10-27|
