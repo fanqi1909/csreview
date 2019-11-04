@@ -44,3 +44,4 @@ This is a repository for leetcode solutions.
 |300| Longest Increasing Subsequence | DP, Binary search | [code](src/main/java/org/jace/cs/review/lc/dp/p300/Solution.java) | 2019-10-26|
 |10|  Regular Expression Matching | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p10/Solution.java) | 2019-10-27|
 |43|  Multiplication of Strings | String| [code](src/main/java/org/jace/cs/review/lc/string/p43/Solution.java) | 2019-11-04|
+|44|  Wildcard Matching  | DP | [code](src/main/java/org/jace/cs/review/lc/dp/p44/Solution.java) | 2019-11-04|
