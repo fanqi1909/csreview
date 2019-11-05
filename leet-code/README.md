@@ -48,3 +48,4 @@ This is a repository for leetcode solutions.
 |48|  Rotate Image | Array | [code](src/main/java/org/jace/cs/review/lc/array/p48/Solution.java) | 2019-11-04|
 |49|  Group Anagrams| String | [code](src/main/java/org/jace/cs/review/lc/string/p49/Solution.java) | 2019-11-04|
 |50|  Pow(x, n)| Number | [code](src/main/java/org/jace/cs/review/lc/number/p50/Solution.java) | 2019-11-04|
+|53|  Maximum Subarray | Array | [code](src/main/java/org/jace/cs/review/lc/array/p53/Solution.java) | 2019-11-05|
