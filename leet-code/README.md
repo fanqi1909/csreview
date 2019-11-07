@@ -50,3 +50,4 @@ This is a repository for leetcode solutions.
 |50|  Pow(x, n)| Number | [code](src/main/java/org/jace/cs/review/lc/number/p50/Solution.java) | 2019-11-04|
 |53|  Maximum Subarray | Array | [code](src/main/java/org/jace/cs/review/lc/array/p53/Solution.java) | 2019-11-05|
 |56|  Merge intervals | Interval | [code](src/main/java/org/jace/cs/review/lc/interval/p56/Solution.java) | 2019-11-06|
+|57|  Insert intervals | Interval | [code](src/main/java/org/jace/cs/review/lc/interval/p57/Solution.java) | 2019-11-06|
