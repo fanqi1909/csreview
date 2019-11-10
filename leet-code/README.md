@@ -58,5 +58,6 @@ This is a repository for leetcode solutions.
 |60|  Permutation Sequence | Search | [code](src/main/java/org/jace/cs/review/lc/search/p60/Solution.java) | 2019-11-09|
 |61|  Rotate List | List | [code](src/main/java/org/jace/cs/review/lc/list/p61/Solution.java) | 2019-11-09|
 |64|  Minimum Path Sum | Dp | [code](src/main/java/org/jace/cs/review/lc/dp/p64/Solution.java) | 2019-11-09|
-|65|  Valid Number| Number | [code](src/main/java/org/jace/cs/review/ltatusc/number/p65/Solution.java) | 2019-11-09|
-|66|  Add One| Number | [code](src/main/java/org/jace/cs/review/ltatusc/number/p66/Solution.java) | 2019-11-09|
+|65|  Valid Number| Number | [code](src/main/java/org/jace/cs/review/lc/number/p65/Solution.java) | 2019-11-09|
+|66|  Add One| Number | [code](src/main/java/org/jace/cs/review/lc/number/p66/Solution.java) | 2019-11-10|
+|68|  Text Justification | String | [code](src/main/java/org/jace/cs/review/lc/string/p66/Solution.java) | 2019-11-10|
