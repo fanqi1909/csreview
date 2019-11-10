@@ -61,3 +61,5 @@ This is a repository for leetcode solutions.
 |65|  Valid Number| Number | [code](src/main/java/org/jace/cs/review/lc/number/p65/Solution.java) | 2019-11-09|
 |66|  Add One| Number | [code](src/main/java/org/jace/cs/review/lc/number/p66/Solution.java) | 2019-11-10|
 |68|  Text Justification | String | [code](src/main/java/org/jace/cs/review/lc/string/p66/Solution.java) | 2019-11-10|
+|67|  Add Binary | String | [code](src/main/java/org/jace/cs/review/lc/string/p67/Solution.java) | 2019-11-10|
+|71|  Simplify Path | String, Stack | [code](src/main/java/org/jace/cs/review/lc/string/p71/Solution.java) | 2019-11-10|
