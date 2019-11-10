@@ -59,3 +59,4 @@ This is a repository for leetcode solutions.
 |61|  Rotate List | List | [code](src/main/java/org/jace/cs/review/lc/list/p61/Solution.java) | 2019-11-09|
 |64|  Minimum Path Sum | Dp | [code](src/main/java/org/jace/cs/review/lc/dp/p64/Solution.java) | 2019-11-09|
 |65|  Valid Number| Number | [code](src/main/java/org/jace/cs/review/ltatusc/number/p65/Solution.java) | 2019-11-09|
+|66|  Add One| Number | [code](src/main/java/org/jace/cs/review/ltatusc/number/p66/Solution.java) | 2019-11-09|
