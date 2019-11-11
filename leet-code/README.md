@@ -65,3 +65,4 @@ This is a repository for leetcode solutions.
 |71|  Simplify Path | String, Stack | [code](src/main/java/org/jace/cs/review/lc/string/p71/Solution.java) | 2019-11-10|
 |72|  Edit Distance | DP | [code](src/main/java/org/jace/cs/review/lc/dp/p72/Solution.java) | 2019-11-11|
 |73|  Set Matrix Zeroes | Matrix | [code](src/main/java/org/jace/cs/review/lc/matrix/p73/Solution.java) | 2019-11-11|
+|74|  Search a 2D Matrix | Matrix | [code](src/main/java/org/jace/cs/review/lc/matrix/p74/Solution.java) | 2019-11-11|
