@@ -45,7 +45,7 @@ This is a repository for leetcode solutions.
 |10|  Regular Expression Matching | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p10/Solution.java) | 2019-10-27|
 |43|  Multiplication of Strings | String| [code](src/main/java/org/jace/cs/review/lc/string/p43/Solution.java) | 2019-11-04|
 |44|  Wildcard Matching  | DP | [code](src/main/java/org/jace/cs/review/lc/dp/p44/Solution.java) | 2019-11-04|
-|48|  Rotate Image | Array | [code](src/main/java/org/jace/cs/review/lc/array/p48/Solution.java) | 2019-11-04|
+|48|  Rotate Image | Array | [code](src/main/java/org/jace/cs/review/lc/matrix/p48/Solution.java) | 2019-11-04|
 |49|  Group Anagrams| String | [code](src/main/java/org/jace/cs/review/lc/string/p49/Solution.java) | 2019-11-04|
 |50|  Pow(x, n)| Number | [code](src/main/java/org/jace/cs/review/lc/number/p50/Solution.java) | 2019-11-04|
 |53|  Maximum Subarray | Array | [code](src/main/java/org/jace/cs/review/lc/array/p53/Solution.java) | 2019-11-05|
@@ -64,3 +64,4 @@ This is a repository for leetcode solutions.
 |67|  Add Binary | String | [code](src/main/java/org/jace/cs/review/lc/string/p67/Solution.java) | 2019-11-10|
 |71|  Simplify Path | String, Stack | [code](src/main/java/org/jace/cs/review/lc/string/p71/Solution.java) | 2019-11-10|
 |72|  Edit Distance | DP | [code](src/main/java/org/jace/cs/review/lc/dp/p72/Solution.java) | 2019-11-11|
+|73|  Set Matrix Zeroes | Matrix | [code](src/main/java/org/jace/cs/review/lc/matrix/p73/Solution.java) | 2019-11-11|

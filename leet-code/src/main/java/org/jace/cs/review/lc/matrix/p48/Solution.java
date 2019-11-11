@@ -1,4 +1,4 @@
-package org.jace.cs.review.lc.array.p48;
+package org.jace.cs.review.lc.matrix.p48;
 
 import org.jace.cs.review.lc.dp.Util;
 
