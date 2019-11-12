@@ -2,15 +2,19 @@ package org.jace.cs.review.lc.array.p75;
 
 import java.util.Arrays;
 
+/**
+ * bound two points, p0 and p2, which states next cell for zero and prev cell for two.
+ * use p1 as a pointer to scan in between p0 and p2.
+ * if found 0, swap with p0 and increment both
+ * if found 2, swap with p2 and decrease p2. we cannot increase p1 as the value p2 holds has not been examined yet, instead, it will be examined in the next round
+ * if found 1, then increment p1
+ */
 public class Solution {
 
     public void sortColors(int[] nums) {
         if (nums.length == 1) return;
         int p0 = 0;
         int p2 = nums.length - 1;
-
-        while (p2 >= 0 && nums[p2] == 2) p2--;
-        while (p0 < nums.length && nums[p0] == 0) p0++;
 
         int p1 = p0;
         while (p1 <= p2) {

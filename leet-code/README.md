@@ -68,3 +68,4 @@ This is a repository for leetcode solutions.
 |74|  Search a 2D Matrix | Matrix | [code](src/main/java/org/jace/cs/review/lc/matrix/p74/Solution.java) | 2019-11-11|
 |76|  Minimum Window Substring | String, Sliding Window | [code](src/main/java/org/jace/cs/review/lc/string/p76/Solution.java) | 2019-11-11|
 |75|  Sort Colors | Two pointers, Array| [code](src/main/java/org/jace/cs/review/lc/array/p75/Solution.java) | 2019-11-12|
+|77|  Combinations| Search, DFS| [code](src/main/java/org/jace/cs/review/lc/search/p77/Solution.java) | 2019-11-12|
