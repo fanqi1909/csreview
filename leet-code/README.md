@@ -69,3 +69,4 @@ This is a repository for leetcode solutions.
 |76|  Minimum Window Substring | String, Sliding Window | [code](src/main/java/org/jace/cs/review/lc/string/p76/Solution.java) | 2019-11-11|
 |75|  Sort Colors | Two pointers, Array| [code](src/main/java/org/jace/cs/review/lc/array/p75/Solution.java) | 2019-11-12|
 |77|  Combinations| Search, DFS| [code](src/main/java/org/jace/cs/review/lc/search/p77/Solution.java) | 2019-11-12|
+|78|  Subsets| Search, DFS| [code](src/main/java/org/jace/cs/review/lc/search/p78/Solution.java) | 2019-11-12|
