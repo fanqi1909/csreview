@@ -70,4 +70,5 @@ This is a repository for leetcode solutions.
 |75|  Sort Colors | Two pointers, Array| [code](src/main/java/org/jace/cs/review/lc/array/p75/Solution.java) | 2019-11-12|
 |77|  Combinations| Search, DFS| [code](src/main/java/org/jace/cs/review/lc/search/p77/Solution.java) | 2019-11-12|
 |78|  Subsets| Search, DFS| [code](src/main/java/org/jace/cs/review/lc/search/p78/Solution.java) | 2019-11-12|
-|80|  Remove Duplicates From Sorted Array II| Array, TWo pointers| [code](src/main/java/org/jace/cs/review/lc/array/p80/Solution.java) | 2019-11-12|
+|80|  Remove Duplicates From Sorted Array II| Array, Two pointers| [code](src/main/java/org/jace/cs/review/lc/array/p80/Solution.java) | 2019-11-12|
+|81|  Search in Rotated Sorted Array II | Binary search| [code](src/main/java/org/jace/cs/review/lc/binarysearch/p81/Solution.java) | 2019-11-12|

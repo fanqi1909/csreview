@@ -2,7 +2,7 @@ package org.jace.cs.review.lc.binarysearch.p33;
 
 public class Tester {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        SolutionBS solution = new SolutionBS();
 
 
         System.out.println(solution.search(new int[]{0,1,2,4,5,6,7}, 0) + " ==== 0");
