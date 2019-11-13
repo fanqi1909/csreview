@@ -73,3 +73,5 @@ This is a repository for leetcode solutions.
 |80|  Remove Duplicates From Sorted Array II| Array, Two pointers| [code](src/main/java/org/jace/cs/review/lc/array/p80/Solution.java) | 2019-11-12|
 |81|  Search in Rotated Sorted Array II | Binary search| [code](src/main/java/org/jace/cs/review/lc/binarysearch/p81/Solution.java) | 2019-11-12|
 |82|  Remove Duplicates from Sorted List II | List | [code](src/main/java/org/jace/cs/review/lc/list/p82/Solution.java) | 2019-11-12|
+|85|  Maximum Rectangular | List | [code](src/main/java/org/jace/cs/review/lc/interval/p85/Solution.java) | 2019-11-13|
+|86|   Partition List | List | [code](src/main/java/org/jace/cs/review/lc/list/p86/Solution.java) | 2019-11-13|
