@@ -24,8 +24,12 @@ public class Solution {
                         newPerm.add(0, nums[position]);
                         result.add(newPerm);
 
-                        for(int i = 1;  i < newPerm.size() && nums[position] != newPerm.get(i); i++) {
-                            result.add(swap(0, i, newPerm));
+                        for(int i = 1;  i < newPerm.size() /*&& nums[position] != newPerm.get(i)*/; i++) {
+                            if(nums[position] != newPerm.get(i)) {
+                                result.add(swap(0, i, newPerm));
+                            } else {
+                                break;
+                            }
                         }
                     }
             );

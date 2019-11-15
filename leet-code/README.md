@@ -77,3 +77,4 @@ This is a repository for leetcode solutions.
 |86|   Partition List | List | [code](src/main/java/org/jace/cs/review/lc/list/p86/Solution.java) | 2019-11-13|
 |87|   Scramble String | DP | [code](src/main/java/org/jace/cs/review/lc/dp/p87/Solution.java) | 2019-11-13|
 |90|  Subsets II | DFS, search| [code](src/main/java/org/jace/cs/review/lc/search/p90/Solution.java) | 2019-11-13|
+|93|  Restore IP Address | DFS, search| [code](src/main/java/org/jace/cs/review/lc/search/p93/Solution.java) | 2019-11-15|
