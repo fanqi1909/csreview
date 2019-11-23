@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.Stack;
 
 /**
- * Use a stack to iterate intervals in ascending order of starting point.
+ * Use a MonoStack to iterate intervals in ascending order of starting point.
  * If two interval can merge, they will merge and generate a new interval
  */
 public class Solution {
