@@ -1,4 +1,4 @@
-package contest.p163.p1;
+package contest.c163.p1;
 
 import java.util.Collections;
 import java.util.LinkedList;

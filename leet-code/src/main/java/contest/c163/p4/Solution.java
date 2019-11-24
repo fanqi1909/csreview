@@ -1,4 +1,4 @@
-package contest.p163.p4;
+package contest.c163.p4;
 
 public class Solution {
 

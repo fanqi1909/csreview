@@ -1,4 +1,4 @@
-package contest.p163.p3;
+package contest.c163.p3;
 
 import java.util.*;
 
