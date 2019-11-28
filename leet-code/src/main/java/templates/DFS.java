@@ -68,7 +68,8 @@ public class DFS {
                     stack.push(neighbor);
                     color[neighbor] = GREY;
                 } else if (color[neighbor] == GREY) {
-                    //circle detected
+                    //circle
+                    //all nodes with GREY color forms a circle, it is also the strongly-connected components
                 } else {
                     //neighbor has been visited
                 }
