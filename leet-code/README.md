@@ -81,4 +81,5 @@ This is a repository for leetcode solutions.
 |94|  Binary Tree Inorder Traversal | Tree, search| [code](src/main/java/org/jace/cs/review/lc/tree/p94/Solution.java) | 2019-11-15|
 |95|  Unique Binary Search Trees II | Tree| [code](src/main/java/org/jace/cs/review/lc/tree/p95/Solution.java) | 2019-11-16|
 |97|  Interleaving Strings | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p97/Solution.java) | 2019-11-16|
-|115|  Distinct Susbequences | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p115/Solution.java) | 2019-11-28|
+|115|  Distinct Susbequences | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p115/DistinctSubsequences.java) | 2019-11-28|
+|140|  Word Break II | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p140/WordBreak2.java) | 2019-11-28|
