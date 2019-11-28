@@ -1,4 +1,4 @@
-package org.jace.cs.review.lc.dp.p140;
+package org.jace.cs.review.lc.search.p140;
 
 import java.util.*;
 
