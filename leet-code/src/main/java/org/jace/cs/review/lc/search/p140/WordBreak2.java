@@ -18,6 +18,7 @@ public class WordBreak2 {
         List<String>[] lookup = new List[s.length() + 1];
         lookup[s.length()] = new LinkedList<>();
         lookup[s.length()].add("");
+        
 
 
         return wordBreak(0, s, dict, maxLen, lookup);
@@ -29,8 +30,9 @@ public class WordBreak2 {
         }
 
         List<String> result = new LinkedList<>();
+        String word = "";
         for (int i = start + 1; i <= text.length() && i - start <= maxLen; i++) {
-            String word = text.substring(start, i);
+            word = word + text.charAt(i-1); //text.substring(start, i);
             if (dict.contains(word)) {
                 List<String> remaining = wordBreak(i, text, dict, maxLen, lookup);
                 for (String r : remaining) {

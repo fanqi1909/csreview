@@ -1,7 +1,5 @@
 package ps.google.array.string;
 
-import ps.google.expressive.words.Solution;
-
 public class ExpressiveWords {
     public int expressiveWords(String S, String[] words) {
         String sCode = runLength(S);

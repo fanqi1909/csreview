@@ -83,3 +83,4 @@ This is a repository for leetcode solutions.
 |97|  Interleaving Strings | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p97/Solution.java) | 2019-11-16|
 |115|  Distinct Susbequences | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p115/DistinctSubsequences.java) | 2019-11-28|
 |140|  Word Break II | DFS + Mem table| [code](src/main/java/org/jace/cs/review/lc/search/p140/WordBreak2.java) | 2019-11-28|
+|438|  Find All Anagram in String| String, hash| [code](src/main/java/org/jace/cs/review/lc/string/p438/FindAllAnagramsInAString.java) | 2019-12-11|
