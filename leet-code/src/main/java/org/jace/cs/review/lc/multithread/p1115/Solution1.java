@@ -10,7 +10,7 @@ public class Solution1 implements Solution {
     private final Condition printFooSig = BQLock.newCondition();
     private final Condition printBarSig = BQLock.newCondition();
 
-    private boolean toFoo = true;
+    private volatile boolean toFoo = true;
 
     public Solution1(int n) {
         this.n = n;
@@ -26,8 +26,9 @@ public class Solution1 implements Solution {
                 while(!toFoo) {
                     printFooSig.await();
                 }
-                printBarSig.signal();
+                // printBarSig.signal();
                 printFoo.run();
+                printBarSig.signal();
                 toFoo = false;
 
             } catch (Exception e) {
@@ -47,8 +48,9 @@ public class Solution1 implements Solution {
                 while(toFoo) {
                     printBarSig.await();
                 }
-                printFooSig.signal();
+          //      printFooSig.signal();
                 printBar.run();
+                printFooSig.signal();
                 toFoo = true;
             } catch (Exception e) {
                 e.printStackTrace();

@@ -84,3 +84,4 @@ This is a repository for leetcode solutions.
 |115|  Distinct Susbequences | DP| [code](src/main/java/org/jace/cs/review/lc/dp/p115/DistinctSubsequences.java) | 2019-11-28|
 |140|  Word Break II | DFS + Mem table| [code](src/main/java/org/jace/cs/review/lc/search/p140/WordBreak2.java) | 2019-11-28|
 |438|  Find All Anagram in String| String, hash| [code](src/main/java/org/jace/cs/review/lc/string/p438/FindAllAnagramsInAString.java) | 2019-12-11|
+|336|  Palindrome Pairs| Trie| [code](src/main/java/org/jace/cs/review/lc/search/p336/PalindromePairs.java) | 2019-12-11|
