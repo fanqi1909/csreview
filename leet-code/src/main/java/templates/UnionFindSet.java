@@ -36,4 +36,11 @@ public class UnionFindSet {
             }
         }
     }
+    public static void main(String[] args) {
+        int ans = 5;
+        while(ans > 0) {
+            System.out.println(Integer.toBinaryString(-ans & ans));
+            ans = ans & ( ~ (-ans & ans));
+        }
+    }
 }
