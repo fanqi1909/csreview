@@ -45,7 +45,6 @@ public class DiceRollSimulation {
                 for (int k = 1; k < rollMax[j]; k++) {
                     dp[i][j][k + 1] = dp[i - 1][j][k];
                 }
-
             }
         }
 
