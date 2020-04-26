@@ -13,7 +13,29 @@ public class Util {
         System.out.println("----------------");
     }
 
+    public static void print2DArray(double[][] dp) {
+        System.out.println("----------------");
+        for (int i = 0; i < dp.length; i++) {
+            for (int j = 0; j < dp[i].length; j++) {
+                System.out.print(dp[i][j] + "\t");
+            }
+            System.out.println();
+        }
+        System.out.println("----------------");
+    }
+
     public static void print2DArray(Integer[][] dp) {
+        System.out.println("----------------");
+        for (int i = 0; i < dp.length; i++) {
+            for (int j = 0; j < dp[i].length; j++) {
+                System.out.print(dp[i][j] + "\t");
+            }
+            System.out.println();
+        }
+        System.out.println("----------------");
+    }
+
+    public static void print2DArray(Double[][] dp) {
         System.out.println("----------------");
         for (int i = 0; i < dp.length; i++) {
             for (int j = 0; j < dp[i].length; j++) {
