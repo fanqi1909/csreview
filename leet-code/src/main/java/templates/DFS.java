@@ -63,9 +63,9 @@ public class DFS {
     }
 
     private void dfs(int i, int[] color, Set<Integer>[] adjList, List<Integer> ans) {
+        color[i] = GREY; // mark self as processing state
         for(Integer child : adjList[i]) {
             if(color[child] == WHITE) {
-                color[child] = GREY;
                 dfs(child, color, adjList, ans);
             } else if(color[child] == GREY) {
                 //cycle
